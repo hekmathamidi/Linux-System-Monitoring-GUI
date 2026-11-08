@@ -1,0 +1,2 @@
+# No third-party Python packages are required.
+# Tkinter is supplied by the operating system package python3-tk.
